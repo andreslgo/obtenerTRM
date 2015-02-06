@@ -1,5 +1,5 @@
 
-Obtener TRM
+<h1>Obtener TRM</h1>
 
 Este script en PHP permite hacer la conexión con el WebService de la SuperIntendencia Financiera de Colombia y obtener el valor de la TRM de una fecha dada.
 
